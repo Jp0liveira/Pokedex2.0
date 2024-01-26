@@ -1,2 +1,1 @@
-# BootcampDesenvolvimentoFrontendComAngularPokedex
- 
+# Trilha JS Developer - Pokedex
