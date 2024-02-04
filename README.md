@@ -24,7 +24,7 @@ Este projeto consiste em uma implementação de um Pokédex responsivo utilizand
 ## Demonstração
 ![Imagem de Demonstração](https://github.com/Jp0liveira/BootcampDesenvolvimentoFrontendComAngularPokedex/assets/106454449/215e812c-a3cd-4a0c-abf7-d93658fd69ec)
 
-> Você pode visualizar uma demonstração ao vivo do projeto visitando [link-do-seu-projeto](https://jp0liveira.github.io/Pokedex2.0/).
+> Você pode visualizar uma demonstração ao vivo do projeto visitando [link-do-projeto](https://jp0liveira.github.io/Pokedex2.0/).
 
 ## Recursos
 
